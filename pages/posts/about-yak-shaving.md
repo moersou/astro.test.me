@@ -9,7 +9,7 @@ duration: 10min
 
 > [中文原文 Original in Chinese](/posts/about-yak-shaving-zh)
 
-I recentl visited Zhihu occasionally and saw many questions about how to start open source, or how to make open source projects successful. I kinda had similar doubts for a long time, so I thought that maybe I could share some of my rough views on this.
+I recently visited Zhihu occasionally and saw many questions about how to start open source, or how to make open source projects successful. I kinda had similar doubts for a long time, so I thought that maybe I could share some of my rough views on this.
 
 If you don't know me, I am a team member of Vue, Vite, wenyan-lang, WindiCSS, Intlify, and the author of VueUse, Slidev, Type Challenges and i18n Ally. I also have some small open source tools under my personal GitHub account, you can have a look at my [full project list](https://antfu.me/projects). Since I started doing open source in earnest almost two years ago, even though those contributions aren't that impressive, they still managed to allow me to [work full-time on open source development and maintenance through sponsorships](https://twitter.com/antfu7/status/1362676666221268995).
 
