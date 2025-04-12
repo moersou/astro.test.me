@@ -1,6 +1,6 @@
 ---
 title: 1plus.me _ 芝嘉戈
-description: Anthony Fu's Portfolio
+description: 1plus's Portfolio
 image: https://antfu.me/og.png
 art: random
 ---
