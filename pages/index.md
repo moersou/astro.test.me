@@ -1,11 +1,11 @@
 ---
-title: Anthony Fu
+title: 1plus.me _ 芝嘉戈
 description: Anthony Fu's Portfolio
 image: https://antfu.me/og.png
 art: random
 ---
 
-Hey, I am Anthony Fu, a fanatical open sourceror, and a design engineer.
+Hey, I am 1plus, a fanatical open sourceror, and a design engineer.
 
 Working at {NuxtLabs}<br>
 Creator of {Vitest} {Slidev} {VueUse} {UnoCSS} {Elk} {Type Challenges}<br>
